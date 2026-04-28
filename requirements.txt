@@ -1,0 +1,6 @@
+fastapi
+telethon
+groq
+uvicorn
+flask
+python-multipart
